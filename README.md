@@ -44,3 +44,6 @@ env
 
 
 NEXT_PUBLIC_API_URL_ORIGIN = http://localhost:3001
+
+json-server --watch db.json --port 3001
+
