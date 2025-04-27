@@ -16,7 +16,8 @@ tambahkan file .env untuk json server
 
 buka terminal di vscode lalu jalankan
 
-![image](https://github.com/user-attachments/assets/5fc4efba-15b4-4611-9a9c-fd66124da634)
+![Untitled](https://github.com/user-attachments/assets/93011e8d-8e07-4592-acbc-7986928e055c)
+
 
 ```json-server --watch db.json --port 3001 ```
 
