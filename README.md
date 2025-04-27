@@ -7,7 +7,7 @@ First, run the development server:
 ```bash
 clone repositori
 
-jalankan #npm install
+jalankan ```npm install```
 
 
 
