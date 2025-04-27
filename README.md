@@ -23,14 +23,17 @@ buka terminal ke 2 untuk menjalankan aplikasi
 
 ## keterangan user
 admin
+```
 username : admin
 password : admin01
+```
 
 user 
 registrasi atau gunakan akun di bawah ini 
-
+```
 username: badri
 password: badri01
+```
 
 
 
