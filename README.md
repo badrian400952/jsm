@@ -4,7 +4,8 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 First, run the development server:
 
-clone repositori
+clone repositori 
+```https://github.com/badrian400952/jsm.git```
 
 jalankan
 ```npm install```
@@ -14,6 +15,8 @@ tambahkan file .env untuk json server
 ```NEXT_PUBLIC_API_URL_ORIGIN = http://localhost:3001```
 
 buka terminal di vscode lalu jalankan
+
+![image](https://github.com/user-attachments/assets/5fc4efba-15b4-4611-9a9c-fd66124da634)
 
 ```json-server --watch db.json --port 3001 ```
 
